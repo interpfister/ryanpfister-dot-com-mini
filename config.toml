@@ -129,11 +129,11 @@ icon = "fa fa-2x fa-medium"
 weight = 5
 url = "https://medium.com/@interpfister"
 
-[[params.social]]
-name = "Substack"
-icon = "fa fa-2x fa-newspaper-o"
-weight = 6
-url = "https://ryanpfister.substack.com"
+#[[params.social]]
+#name = "Substack"
+#icon = "fa fa-2x fa-newspaper-o"
+#weight = 6
+#url = "https://ryanpfister.substack.com"
 
 [languages.en]
 languageName = ":uk:"
